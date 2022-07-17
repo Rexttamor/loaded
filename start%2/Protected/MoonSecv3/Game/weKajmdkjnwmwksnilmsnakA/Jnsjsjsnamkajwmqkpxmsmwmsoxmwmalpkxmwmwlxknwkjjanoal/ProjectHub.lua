@@ -3,7 +3,7 @@
 --Cuntinue 
 game.StarterGui:SetCore("SendNotification", { -- SHOW NOTIFIACTION
                 Title = "Welxalv2", -- NOTIFICACTION LABEL
-                Text = "No Key system under Fixed", -- NOTIFICATION DESCRIPTION / TEXT
+                Text = "No Key system under Fixed New Nil v3", -- NOTIFICATION DESCRIPTION / TEXT
                 Icon = "http://www.roblox.com/asset/?id=6023426915", -- ICON (NO ICON)
                 Duration = 2.5 -- DURATION OF THE NOTIFIACTIOn
             })
